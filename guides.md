@@ -74,7 +74,7 @@ You can Ping me in here if you want
 
 
 
-<style>* body html{
+<style>*, body, html{
 	--text-color-fg: #AAAAAA;
 	--text-color-bg: #111111;
 	color: var(--text-color-fg);

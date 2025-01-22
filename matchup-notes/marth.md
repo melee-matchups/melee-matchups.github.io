@@ -164,7 +164,7 @@ Get ready for dash attack out of corner (kinda like puff side b) (CC, sheild (up
 Up B Marth's low side B
 Run off fairs to catch Double Jumps and Marth's side b
 
-<style>* body html{
+<style>*, body, html{
 	--text-color-fg: #AAAAAA;
 	--text-color-bg: #111111;
 	color: var(--text-color-fg);

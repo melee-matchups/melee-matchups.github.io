@@ -207,7 +207,7 @@ Can do it, need more practice to be consistant
 # Others
 
 ## SITUATION
-<style>* body html{
+<style>*, body, html{
 	--text-color-fg: #AAAAAA;
 	--text-color-bg: #111111;
 	color: var(--text-color-fg);

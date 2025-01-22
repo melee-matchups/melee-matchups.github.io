@@ -119,7 +119,7 @@ https://www.youtube.com/watch?v=XHeM_Hpsn_s&list=PLQAcqCQmvo1hgEXCu1ikWy8lOQTelQ
 
 
 # -=-=-=-=-=-= OLD SHIT IGNORE PLEASE, here because I like archiving stuff -=-=-=-=-=-=-=
-<style>* body html{
+<style>*, body, html{
 	--text-color-fg: #AAAAAA;
 	--text-color-bg: #111111;
 	color: var(--text-color-fg);

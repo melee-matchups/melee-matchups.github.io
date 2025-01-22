@@ -88,7 +88,7 @@ I will rage at every possible moment I do not understand, this limits my learnin
 The beauty of melee is that there is always counterplay to any option that you do, or any option that your opponent does. The best players of this game have so much knowledge on each micro interation and are able to translate that knolage into meaningful actions on a controler.
 
 It's emaculate that top level melee can even be played in the first place, and I hope I can learn it one day too
-<style>* body html{
+<style>*, body, html{
 	--text-color-fg: #AAAAAA;
 	--text-color-bg: #111111;
 	color: var(--text-color-fg);
