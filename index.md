@@ -52,4 +52,10 @@
 
 [How to Marth - Footsies](rambles/how to marth - Footsies.md)
 
-[Mental Neutral - gameplans](rambles/Mental Neutral - gameplans.md.md)
+[Mental Neutral - gameplans](rambles/Mental Neutral - gameplans.md)
+<style>* {
+	--text-color-fg: #AAAAAA;
+	--text-color-bg: #111111;
+	color: var(--text-color-fg);
+	background-color: var(--text-color-bg);
+}</style>

@@ -119,3 +119,9 @@ High -> F-Smash if it will kill or set up for ledge hog, otherwise F-Air
 
 
 # -=-=-=-=-=-= OLD SHIT IGNORE PLEASE, here because I like archiving stuff -=-=-=-=-=-=-=
+<style>* {
+	--text-color-fg: #AAAAAA;
+	--text-color-bg: #111111;
+	color: var(--text-color-fg);
+	background-color: var(--text-color-bg);
+}</style>

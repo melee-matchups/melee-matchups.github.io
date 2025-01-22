@@ -290,3 +290,9 @@ Go out to hit otherwise
 "Sheik Shit On Reddit": "https://www.reddit.com/r/SSBM/comments/hpawa5/comment/fxtcivx/?utm_medium=web3x&utm_name=web3xcss&utm_term=1",
 "Marth v. Sheik quizlet": "https://quizlet.com/141509254/marth-v-sheik-flash-cards/"
 },
+<style>* {
+	--text-color-fg: #AAAAAA;
+	--text-color-bg: #111111;
+	color: var(--text-color-fg);
+	background-color: var(--text-color-bg);
+}</style>

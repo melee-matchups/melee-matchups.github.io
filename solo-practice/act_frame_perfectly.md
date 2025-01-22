@@ -78,3 +78,9 @@ caught a lot of fastfall fair out of hitstun, need to do less
 ## Empty land
 
 ## Dash away
+<style>* {
+	--text-color-fg: #AAAAAA;
+	--text-color-bg: #111111;
+	color: var(--text-color-fg);
+	background-color: var(--text-color-bg);
+}</style>

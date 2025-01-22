@@ -73,3 +73,10 @@ You can Ping me in here if you want
 
 
 
+
+<style>* {
+	--text-color-fg: #AAAAAA;
+	--text-color-bg: #111111;
+	color: var(--text-color-fg);
+	background-color: var(--text-color-bg);
+}</style>
