@@ -186,7 +186,7 @@ You really do not want to approach Fox most the time, by approach, I mean be any
 "throws": "<a href=\"https://marthnerd.blogspot.com/2017/03/marths-uthrow-combos-on-fox-and-falco.html\">Combo flow charts for uthrow</a>",
 "defence": "Don't shield, if you do shield one of his attacks, it becomes RPS of rolling, WD OOS, or grab / aerial OOS (this last option is risky AF, but catches some of the obligatory bullshit he will try on your shield that is not safe)\n\nAnother option to shielding is just to CC alot at low %, this will probably end up with you being able to grab, dtilt or fsmash if he is at high % or near a ledge",
 "recovery": "Watch out for his shine, try not to be too close to the ledge for too long as that's where it is most potent, be quick and decisive on where you want to go, as a hesitation is all the Fox needs to shine spike you\n\nDONT JUMP TO LEGDE YOU WILL BE SHINED",
-<style>* {
+<style>* body html{
 	--text-color-fg: #AAAAAA;
 	--text-color-bg: #111111;
 	color: var(--text-color-fg);

@@ -68,7 +68,7 @@ Nothing / Drift in > Low DJ > Up B to ledge
 
 
 # -=-=-=-=-=-= OLD SHIT IGNORE PLEASE, here because I like archiving stuff -=-=-=-=-=-=-=
-<style>* {
+<style>* body html{
 	--text-color-fg: #AAAAAA;
 	--text-color-bg: #111111;
 	color: var(--text-color-fg);
