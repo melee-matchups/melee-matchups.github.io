@@ -83,6 +83,10 @@ At mid %s (30-50), it seams I can only true combo 1 uair or 1 fair -> U-Air for 
 
 At higher %s (50+) you get true strings into edge guards / juggles off the top of the screen
 
+*CRUCIAL*
+## Grab ledge when facing it
+
+
 ## Low % Tech chases
 F-Throw may not tech chase at low %, so can get re grab
 

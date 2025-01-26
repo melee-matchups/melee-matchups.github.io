@@ -56,6 +56,18 @@
 
 
 # Weaknesses
+- 
+
+Speed			★☆
+Movement		
+Offence			
+Defence			
+Range			
+Out of Shield	
+Boxing			
+Recovery		
+Ledge Trapping	
+Edge guarding	
 
 
 # -=-=-=-=-=-= OLD SHIT IGNORE PLEASE, here because I like archiving stuff -=-=-=-=-=-=-=

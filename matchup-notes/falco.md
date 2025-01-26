@@ -43,26 +43,26 @@ sdi up fair
 REMEBER TO *IN PLACE* NAIR
 
 # Neutral
+*Note: play [keep-out](../how_to_play_keepout.md)*
 
 ## Movement
-Like Puff, you do not want to scrap with Falco at close range.
-His D-Air lasts forever and covers the entire area around him.
-Along with his shine, being close to him almost always means you'll end up being combo-ed.
+You do not want to be in scrap range with Falco; This is where he is at his strongest.
 
-So VS Falco, you will want to play a walling game.
+You want to be walling Falco out with aerials, making sure he as to try hard to get in.
 
-You want to stay far enough away where you wont get hit by F-Smash, but close enough where you can still hit his jump forwards with a N-Air in place.
-Once you have gotten into this position, you will play footies with the Falco with his burst options and lazers.
+You will need to find the range where you can N-Air his aerial approaches whilst also being safe from his grounded moves (in closer distances, this is not a problem as AC N-Air can hit these).
 
 You don't want to give the Falco an approach, as Marth, you want the Falco to come to you and chase you down. If you both go for each-other, Falco's moves just win due to their size and longer lasting hitbox.
 
 ## Gameplan
-Falco is all about keeping up pressure, so Marth's job is to alleviated as much of this pressure as he can.
+Once we are within a distance where we can N-Air his aproches, we ofcorse need to talk about lazers.
+The 2 main way we deal with lazers are ether to take lazer F-Air (TLF) or to power-shield.
 
-Falco's primary tools are all aerials (excluding a few), meaning he has to jump to get anything done, we can exploit this in a variety of ways.
+Choosing witch options is quite easy, if your in the air, you can't PS, so TLF into grab will work.
 
-You will need to watch where the Falco likes to jump and how he does it.
+When on the ground, if you have enough time to jump, do so, as TLF leads to better combos than a PS does.
 
+PS job is to force the Falco to approach and respect Marth's movement.
 
 ### N-Air
 Since Falco will primarily come from the air, we can use an In-Place N-Air to counter hit his approach.
@@ -77,13 +77,15 @@ This makes this N-Air a timing mix-up on witch you must identify when the Falco 
 When Falco wants to hit you for doing anything that isn't N-Air-ing in place, he will probably approach with an aerial. This is where you should be mixing in dash backs to whiff punish these.
 Furthermore, in the dash back animation, Marth gets access to the "floating power-shield" witch makes it easier to PS Falco's lazers.
 
-### Falco retreating / playing pasive
+Just watch out for the Falco overshooting to cover this.
+
+### Falco retreating / playing passive
 If the Falco likes to retreat (dash back / jump back) or play passively (jumping in place / lazer in place), you can call this out by bursting into him with an aerial (F-Air / N-Air) or a ground move if you can get it out in time (dash attack, F-Smash or Grab)
 
 ### Empty Hops In Center
 When holding center, you do not want to push into Falco.
 This is because if you do, and he get's past you, you can get stuck in the corner.
-Instead, you wan't to abuse that Falco is weaker in the corner as he can no longer play passive, meaning he has to push out or risk being hit.
+Instead, you want to abuse that Falco is weaker in the corner as he can no longer play passive, meaning he has to push out or risk being hit.
 
 A good way to do this is to empty hop, as this allows you to react to his options whilst also not putting you into any lag.
 
@@ -106,6 +108,7 @@ However, if you go for a power-shield and do not get it, get of of shield as fas
 
 ### Falco Above You
 When Falco is above you (like on a platform or from him full-hopping), you can shark with U-Airs and F-Airs.
+The way you want to do this is to stay just out-side of Falco's threat range, so that you do not risk getting hit. You must then observe if the Flaco is coming down aggressively or passively. After this, you can use your disjointed range to cover his landings.
 U-Airs are better when he is on a platform and in-front of you (like if he tries to hold away), where F-Air is better if he is above you / trying to land onto you from above.
 
 ### Falco In The Corner
@@ -167,7 +170,7 @@ If your spaced right, you can also dash attack his jump, this creates a mix up s
 Retreating lazers are the hardest to deal with.
 The best way to deal with them is to PS and WD forwards, this forces the Falco to stop doing them as it pushes them into the corner.
 
-If you want to attack them, you can overshoot with N-Air or dash attack, but guessing wrong will lead to a big punish by Falco, so use theses with caution.
+If you want to attack them, you can overshoot with N-Air or dash attack, but guessing wrong will lead to a big punish by Falco, so use these with caution.
 
 Another variant of this is lazer to retreat / dash back.
 This is the same as a retreating lazer, as he has moved outside of your effective range.
@@ -202,7 +205,7 @@ Finally, if he decides not to even try getting hit and running far away from you
 ## Options not to respect
 
 ### Grab
-Falco does not get anything\* off a grab, aslong as you DI and SDI his lazer up (you go really far when doing this) then she should never get anything off it apart from positioning.
+Falco does not get anything\* off a grab, aslong as you DI and SDI his lazer up (you go really far when doing this) then they should never get anything off it apart from positioning.
 
 \* when at ledge, Falco may U-Throw, if you DI wrong, he might be able to D-Air spike you, please DI correctly.
 
@@ -296,11 +299,24 @@ When in the corner, you want to find you way back to center, however, if the Fal
 If you find yourself cornered, the first thing to do is not to panic.
 I used to always try to grab him or jump out, this is very VERY bad.
 
-@TODO talk about SH aerial in place vs goto center VS light sheild
+```@TODO talk about SH aerial in place vs goto center VS light sheild```
 
-The best option I have found is to light shield in the corner. This forces Falco to ether shield pressure you, witch since your in the corner, will put you back to ledge, resetting the situation, or grabbing you, witch he shouldn't get anything off of, maybe an edge guard situation if he F-Throws, but DI will let you get back fairly consistently.
+There are 4 main options to choose from when in the corner.
+### SH aerial in place
+Doing a SH N-Air in the corner is risky, as you can no longer dash back, but if the Falco is coming into the corner with a hitbox, its a good option to stay in place and N-Air as it stops him from attacking you.
 
-After he starts going for grab or ways to beat the shield, you can start mixing up by rolling in, dashing, or jumping to a platform or over him to get to center.
+However, if the Falco knows you will do this, he can wait and N-Air inot the corner himself and knock you offstage.
+
+### Light shield
+The safest options is just to light shield by the ledge.
+When getting hit, you will fall back to the ledge and reset the scenario.
+
+### Run to center
+If the Falco tries to N-Air your N-Air, you can run under it to center.
+Just watch out for him D-Air-ing
+
+### Platforms (if not on FD)
+You can also try to reset onto platforms, but watch out as you don't really want to be above Falco.
 
 ## Platform Slide Offs
 You can slide off his D-Air if you land onto a platform.
@@ -322,9 +338,11 @@ FD
 DL
 
 # Resources
-"Smash boards flaco help": "https://smashboards.com/threads/marth-vs-falco-i-just-cant-win.435297/",
-"How to take lazer fair properly": "https://youtu.be/sL5BX--u_cI?t=8m55s",
-"Uthrow table": "https://marthnerd.blogspot.com/2017/03/marth-uthrow-combo-table-and-flowchart.html"
+[Smash boards flaco help](https://smashboards.com/threads/marth-vs-falco-i-just-cant-win.435297/)
+
+[How to take lazer fair properly](https://youtu.be/sL5BX--u_cI?t=8m55s)
+
+[Uthrow table](https://marthnerd.blogspot.com/2017/03/marth-uthrow-combo-table-and-flowchart.html)
 
 # Weaknesses
 - Dash speed is very bad
@@ -341,45 +359,6 @@ Boxing			★★★☆☆
 Recovery		★★★☆☆
 Ledge Trapping	★★★★☆
 Edge guarding	★★★★★
-
-# -=-=-=-=-=-= OLD SHIT IGNORE PLEASE, here because I like archiving stuff -=-=-=-=-=-=-=
-"gameplan": "You want to be dashing just outside his range (dair's range) or just within his range to force him to choose between overshooting your dash back or undershooting\nYou want to hold center, as this forces Falco into the corner and allows you to empty hop at center to take lazer into fair\nIf your far enough away, Falco has to jump to get anything done, we can exploit this in a variety of ways\n\nFalco will ether jump in with an aerial or a lazer\nYou want to aim to ether beat the jump before anything comes out, or jump with him to out range him\nIf he does an aerial, nair normally lasts long enough to catch him and if he does not jump, you can AC it and dash away if he comes in again (because he is slow, he can't really punish this)\nHowever if he lazers the jump / nair, if you have jumped with falco, you should be at a height where you can fair out of the lazers stun\n\nWhen he jumps to lazer, you can do a variety of things depending of your positioning:\n1. you can attack the jump with a dash attack, nair or fair\n2. you can dash away if your too close or in a dash dance and PS the lazer\n3. if your far enough away, you can just crouch PS without giving up space\n4. if he approaches with lazer, you can: (jump, take the lazer, and fair) or (sheild grab him if he spaces badly)\n\nWhen you get hit by lazer in the air do one of:\n1: fair if he is close enough to be hit\n2: wave land back / forwards\n3: jump to / jump WD to a platform\n4: land and react to his option\n\nWhen you (or falco) get hit by lazer on the ground do one of:\n1: dash back and hope to get a grab\n2: nair in place to catch him lazering again\n3: WD / dash away for forwards depending where the Falco flies too (if he overshoots or undershoots his next move)\n4: If you have a hard read on what he\u00e2\u20ac\u2122ll do next, you can do something else\n\nWhen he is dash dancing camping, you can WD forward down tilt/fsmash, but its better to take space, as the bird doesn't have much movement\n",
-"respect": "Dair leads to combos after about 15%\n\nShine combos until about 70-80% where you can SDI up the dair to avoid shine follow ups\n\nWhen power sheild, hold the sheild, don't drop sheild, wave dash out of it",
-"not_respect": "Falco in the corner doesn't have many options. You have to try to catch him as he comes out\n\nGrab leads to nothing if you SDI the lazer",
-"edge_guarding": "If Falco doesn't have his double jump and he's below the stage, he has to up b. This is when you go deep and kill him\nCan jab Side-B from ledge, if it clanks, go dash grab him, your technically positive here\nFalco resources: double jump, up b / Side-B, airdodge, (some stages walljump), and shine for stalling.",
-"combos": "Super late fair/spaced nair can both lead to a clean grab opportunity at low %",
-"throws": "<a href=\"https://marthnerd.blogspot.com/2017/03/marth-uthrow-combo-table-and-flowchart.html\">Uthrow table</a>",
-"defence": "If you get overwhelmed, you can buffer a roll with C stick, and if the Falco doesn't read it, he can't get to you in time\n",
-"recovery": "Watch out for dair and dsmash",
-"stages": {
-"good": "fd,ys",
-"bad": "dl,fod"
-},
-"resources": {
-"Smash boards flaco help": "https://smashboards.com/threads/marth-vs-falco-i-just-cant-win.435297/",
-"How to take lazer fair properly": "https://youtu.be/sL5BX--u_cI?t=8m55s",
-"Uthrow table": "https://marthnerd.blogspot.com/2017/03/marth-uthrow-combo-table-and-flowchart.html"
-},
-"framedata": "falco",
-"pos": {
-"best": [
-"Falco offstage"
-],
-"good": [
-"Falco in tech",
-"Falco on platform"
-],
-"ok": [
-"Falco above me"
-],
-"bad": [
-"Above flaco",
-"Scramble situation"
-]
-},
-"movement": "",
-"punish": ""
-
 <style>*, body, html{
 	--text-color-fg: #AAAAAA;
 	--text-color-bg: #111111;

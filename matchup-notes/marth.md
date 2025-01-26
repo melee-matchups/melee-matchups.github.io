@@ -1,21 +1,33 @@
 # Stuff to add
 
 # Neutral
+*Note: play [keep-out](../how_to_play_keepout.md)*
 
-## Movement (HOW play)
-You will want to try and hold center, walling out using D-Tilt to control the ground and stuff movement.
-WD forwards is risky in this MU, but needs to be used to poke at Marth when he is dash dancing
-You can dash back to whiff punish Marth's moves due to his end lag on his moves, however this looses to him poking with D-Tilt.
+## Movement
+You do not want to act first in this match-up, the first to bite is the first to die. Due to CC strength at low %s, it is common for Marths' to wait in crouch for you to do something stupid.
+
+You will want to try and hold center, walling out dash approaches using D-Tilt to control the ground and stuff movement.
+Whilst holding down, you have are CC-ing most approaches from Marth, allowing you to cover him dashing in on the ground and any unthoughtful approaches.
+
+Tipper D-Tilt can send far enough away where you cannot get a punish apart from a D-Tilt, this is the reason for the "D-Tilt wars" at low %s.
+
+The 2 aerials that beat Marth CC-ing are AC N-Air FF and D-Air.
+AC N-Air can sometimes be grabbed at low %s if it is not spaced correctly.
+D-Air only works past 7% and is a mix up on their D-Tilt timing.
+
 If Marth starts to jump to beat D-Tilt, you should also start jumping to meet him in the air to anti-air him.
 But if the Marth also an instant aerial, you will want to whiff punish it or beat it out before the hit-box comes out.
 
+WD forwards / run cancels are risky in this MU, but needs to be used to poke at Marth when he is dash dancing; Just watch out for Marth reading this and D-Air-ing you for it.
+You can dash back to whiff punish Marth's moves due to his end lag on his moves, however this looses to him poking with D-Tilt.
+
 Being bellow Marth is also strong as he has a hard time trying to get down.
+We abuse this in punish situations by being able to rack up high damage offa n U-Throw, even if none of it is true.
 
-You do not want to act first in this match-up, the first to bite is the first to die. Due to CC strength at low %s, it is common for Marths' to wait in crouch for you to do something stupid.
-
-## Gameplan (WHAT play)
+## Gameplan
 D-Tilt controls the ground in this MU, along with his long dash, this makes the ground a very strong place for both of us.
 If one Marth cannot wall out the other from the ground, they will loose to Marth's dash dance.
+
 Otherwise, if the Marth knows how to counter play D-Tilt, it becomes a RPS of choosing to D-Tilt, aerials, and whiff punishing.
  You do not want to be in the air, however its one of the best counters to D-Tilt.
 So when you jump, you will want to mix-up when you jump, as otherwise it could lead to you getting anti-aired and full comboed or getting F-Smashed in the face.
@@ -58,10 +70,12 @@ However, due to its low lag, its easily whiff punished or shielded.
 
 Just watch out for if the Marth predicts you will dash back, as its quite good at covering it, often times dashing behind F-Smash is better.
 
+The easiest way to punish it is by using a full hard shield and doing a WD OOS to grab.
+
 ### Dash attack
 Marth might try to dash attack out the corner
 At when your at low % you can CC the dash attack and grab it.
-At when your at higher %s you can sheild it (when the other marth is at high %, you can up b him)
+At when your at higher %s you can shield it (when the other Marth is at high %, you can up b him)
 
 ## Options not to respect
 
@@ -107,6 +121,7 @@ If he is above the ledge and close enough, then you continue to shark him with F
 
 ## Throw Follow ups
 Mix up between F-Throw and U-Throw, their DIs are different for each other.
+F-Throw / D-Throw is really good at the corner, as DI in will kill them, but DI-ing out will set up for a mxi up edge guard, witch the Marth on stage can just wait and react to.
 
 ### Low %
 F-Throw -> Re-Grab
@@ -125,7 +140,6 @@ F-Throw -> Pivot F-Smash / Juggle
 
 If you send Marth(& sheik / low teirs) offstage with a throw at low %s, you should dash dance to make it ambiguous weather you will WD to ledge, or come off and hit them.
 While doing this, you can WD down to D-Tilt the recovery.
-
 
 # Defence
 
@@ -147,22 +161,26 @@ FD
 DL
 
 # Resources
+[Quick Marth Husband session back together](https://www.youtube.com/watch?v=P3PIXFD0Yw0)
 
+[This website](../index.md)
 
-# -=-=-=-=-=-= OLD SHIT IGNORE PLEASE, here because I like archiving stuff -=-=-=-=-=-=-=
+# Weaknesses
+- Recovery can be liner at times and Marth killer is an easy setup
+- Aerial fall speed is quite low, meaning he finds it hard to land
+- End-Lag & Start up: alot of Marth's moves have either alot of end lag or start up and end lag.
+- Due to his moves start up, he does not do well in scrap/boxing situations
 
-Center stage is important
-When marth jumps, jump with him, if he stays grounded, stay grounded
-When in center, use Aerial drift
-Don't act first
-
-CC dtilt -> grab at low %
-Dair dtilt attempt
-
-Get ready for dash attack out of corner (kinda like puff side b) (CC, sheild (up b at late %) or outspace)
-
-Up B Marth's low side B
-Run off fairs to catch Double Jumps and Marth's side b
+Speed			★★★★☆
+Movement		★★★★★
+Offence			★★★★☆
+Defence			★★★★☆
+Range			★★★★★
+Out of Shield	★★☆☆☆
+Boxing			★☆☆☆☆
+Recovery		★★★☆☆
+Ledge Trapping	★★★★☆
+Edge guarding	★★★★★
 
 <style>*, body, html{
 	--text-color-fg: #AAAAAA;
