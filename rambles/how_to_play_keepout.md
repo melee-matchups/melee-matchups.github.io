@@ -27,6 +27,10 @@ Stronger from center
 Defensive dash dancing with alot of opportunities to wall them out with delayed aerials and D-Tilt, can mix up with poke-ing with D-Tilt if they don't want to play
 
 
+
+
+
+need to hold your ground more (stop getting pushed to corner)
 <style>*, body, html{
 	--text-color-fg: #AAAAAA;
 	--text-color-bg: #111111;

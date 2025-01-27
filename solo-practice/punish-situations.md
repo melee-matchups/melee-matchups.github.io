@@ -4,10 +4,16 @@
 # Fox
 *CRUCIAL*
 ## FD Chain grab 0-Death
-z only till 20%
-pivot to right after 20%
+z only till 19%
+pivot to right after 19%
 from 47%, do u-air
 u-air F-smash at 60% (need to do 1 u-air regrab before this or mix up with u-tilt f-smash)
+70-80%:
+soft uair -> f-smash
+or
+tipper u-air -> up b
+80-90%: (turn around if needed) FF -> tipper u-air -> up b
+90-100%: FH up b
 
 ## U-Throw Platform tech chase
  Short-Hop Fast-Fall Upairs, Uptilt, and Fsmash. You can also Waveland down onto the platform and grab him, especially if you expect him to spotdodge or shield
@@ -38,19 +44,23 @@ JC grab if close, else dash grab
 # Falco
 *CRUCIAL*
 ## FD Chain grab 0-Death
-
+Around 40% u-tilt is good
+At 55% do u-air
+At 60% can just do f-smash
+70%+: Look at Fox
 
 ## U-Throw Platform tech chase
+Same as Fox
 
 ## Low % Tech chases
 
 *CRUCIAL*
 ## Take lazer (SDI up) fair
-Yes, get timing down
+Getting timing down, dont SDI atm, but can F-air from 1-5 frames oostun
 
 *CRUCIAL*
 ## PS lazer into WD
-Get into habit of R -> Jump
+Can easily WD oos after PS from crouch, slightly harder from DD as I let go of R too quickly
 
 *CRUCIAL*
 ## Escape Shield pressure with WD OoS
@@ -61,6 +71,9 @@ Get into habit of R -> Jump
 # Puff
 *CRUCIAL*
 ## Pivot Throw follow-ups
+I am happy with my consistence on pivot Fsmash
+Started practising d-throw pivots not just f-throw
+
 Note: cannot C-Stick and Grey stick at the same time, even on the same frame.
 It has to be, stick back one frame, the next frame c-stick > 80%
 
@@ -82,6 +95,10 @@ At low %s (20-30), you get a true U-Tilt -> 1 or 2 (Fair / U-Airs) -> edge guard
 At mid %s (30-50), it seams I can only true combo 1 uair or 1 fair -> U-Air for a high % juggle, and not really anything else unless the sheik DIs directly left or right, allowing the fair strings to work again
 
 At higher %s (50+) you get true strings into edge guards / juggles off the top of the screen
+
+On platform stages can get more U-Air ladder combos
+
+I prefer the plats more, allows for more options in punish game
 
 *CRUCIAL*
 ## Grab ledge when facing it
@@ -106,6 +123,9 @@ F-Smash behind on roll in
 Dash -> F-Smash on roll out
 
 ## F-Air / N-Air combos
+F-Air -> grab alot low % (<50%)
+F-Air -> Dash attack -> F-Smash at low mid % (30-50)
+F-Air ->  F-Smash at mid % (40-70)
 
 ## Platform tech chases
 
@@ -166,6 +186,8 @@ Tho Tipper U-Air is good for when he is directly above you to combo into Tipper 
 No DI: DJ N-Air
 Full DI: DJ Tipper F-Air / N-Air
 
+need to work on timing the f-smash better, u-tilt timing is very quick at frame 1-3
+
 ## Slide off U-Air
 
 # Yoshi
@@ -178,9 +200,15 @@ Can do it, need more practice to be consistant
 
 # Pikachu
 
-## Edge gaurding Up-B (D-Tilt to low him, F-Smash to finish)
+## Edge guarding Up-B (D-Tilt to low him, F-Smash to finish)
 
 ## RTC
+
+## Pivot F-Smash
+
+## RTC
+
+## Both throw follow ups
 
 # DK
 

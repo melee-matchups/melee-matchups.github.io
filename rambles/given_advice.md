@@ -2,6 +2,16 @@
 
 stop f-smashing
 
+You need to hold your ground more (stop getting pushed to corner)
+- Aerial in place/fadeback aerial are great for this
+- In-place Dtilt too
+
+# Things I can pratice
+ledge grab
+
+# Things I notice
+Ledge grabbing
+
 
 <style>*, body, html{
 	--text-color-fg: #AAAAAA;

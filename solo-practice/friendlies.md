@@ -7,14 +7,11 @@ Edge gardening high better + more D-Air
 aerial placements/spacing + timing
 
 # Marth
+hold your ground
 
 Stop running at him, look and pay attention and time better
 
-More CC
-
 More D-Air VS CC happy Marths
-
-Uthrow / Juggles
 
 # Falco
 
