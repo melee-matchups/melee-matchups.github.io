@@ -2,13 +2,12 @@
 
 [Guides](guides.md)
 
-[Match-ups](matchups.md)
-
 [Useful Links](useful_links.md)
 
 [Options](options.md)
 
 # Match-ups
+
 ## S
 
 [Fox](matchup-notes/fox.md)
@@ -53,9 +52,3 @@
 [How to Marth - Footsies](rambles/how to marth - Footsies.md)
 
 [Mental Neutral - gameplans](rambles/Mental Neutral - gameplans.md)
-<style>*, body, html{
-	--text-color-fg: #AAAAAA;
-	--text-color-bg: #111111;
-	color: var(--text-color-fg);
-	background-color: var(--text-color-bg);
-}</style>
