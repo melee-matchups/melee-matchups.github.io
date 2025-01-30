@@ -13,6 +13,7 @@ Dash dancing is preferred VS Fox at close range, Wave Dash and Shield Drops shou
 However, You do not want to be dash dancing on the other side of the stage, this will allow the Fox to not be pressured by your sword and grab.
 You want to be dash dancing to push towards Fox, this will force the Fox to act or run away.
 
+You do not want to give Fox space, by doing so you give him the freedom to enact whatever game-plan he wants. You don't want to rush him down, but you will want to take the space he gives up, forcing him into acting, being pushed into the corner or getting poked by your disjoint.
 ## Gameplan
 Once your are within distance of Foxes burst range, you will be play off of these options.
 The most common options for Fox come after a dash or a SH, You will need to react to witch he choses and punish accordingly.

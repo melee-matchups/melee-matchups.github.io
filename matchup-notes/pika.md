@@ -32,6 +32,8 @@ JUST LIKE VS SHEIK!!
 
 
 
+
+
 # Neutral
 
 ## Movement
@@ -88,8 +90,6 @@ JUST LIKE VS SHEIK!!
 
 # Weaknesses
 
-
-# -=-=-=-=-=-= OLD SHIT IGNORE PLEASE, here because I like archiving stuff -=-=-=-=-=-=-=
 <style>*, body, html{
 	--text-color-fg: #AAAAAA;
 	--text-color-bg: #111111;

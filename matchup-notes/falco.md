@@ -46,6 +46,8 @@ REMEBER TO *IN PLACE* NAIR
 *Note: play [keep-out](../how_to_play_keepout.md)*
 
 ## Movement
+DO not 
+
 You do not want to be in scrap range with Falco; This is where he is at his strongest.
 
 You want to be walling Falco out with aerials, making sure he as to try hard to get in.
