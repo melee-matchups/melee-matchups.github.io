@@ -63,6 +63,7 @@ High -> F-Smash if it will kill or set up for ledge hog, otherwise F-Air
 
 # Neutral
 
+*Note: play [In-Face](../rambles/playstyles.md)*
 ## Movement
 
 

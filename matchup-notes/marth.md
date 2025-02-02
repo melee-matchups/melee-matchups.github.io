@@ -1,7 +1,7 @@
 # Stuff to add
 
 # Neutral
-*Note: play [keep-out](../how_to_play_keepout.md)*
+*Play [keep-out](../rambles/playstyles.md)*
 
 ## Movement
 You do not want to act first in this match-up, the first to bite is the first to die. Due to CC strength at low %s, it is common for Marths' to wait in crouch for you to do something stupid.

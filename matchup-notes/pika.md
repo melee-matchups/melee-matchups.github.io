@@ -36,6 +36,8 @@ JUST LIKE VS SHEIK!!
 
 # Neutral
 
+*Play [keep-out](../rambles/playstyles.md)*
+
 ## Movement
 
 

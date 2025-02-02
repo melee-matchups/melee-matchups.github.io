@@ -7,6 +7,7 @@ Can dash grab: idle frame 2 & first few frames of squat
 Hold center, play lame, play fly swatter
 
 # Neutral
+*Play [keep-out + center](../rambles/playstyles.md)*
 
 ## Movement
 You don't want to scrap with puff at close range, you play range game as your sword can beat out any of puff's aerials.

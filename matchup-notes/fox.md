@@ -1,7 +1,7 @@
 # Stuff to add
 
 # Neutral
-*Note: play [pressure](../how_to_play_pressure.md)*
+*Note: play [In-Face](../rambles/playstyles.md)*
 
 ## Movement
 The way to beat Fox is to out manoeuvre him, pressuring him into doing something and punishing him for doing so.
