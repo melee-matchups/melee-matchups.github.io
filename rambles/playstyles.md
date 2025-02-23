@@ -6,6 +6,7 @@ Keep opponent out from coming into you
 ## Playstyle
 Keep them out at all cost, use disjoint to wall them out and mix up your options so you don't get punished
 
+
 # Pressure
 
 ## Goals: 

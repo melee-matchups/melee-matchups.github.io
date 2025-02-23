@@ -3,6 +3,14 @@
 
 # Neutral
 
+## Advantageous Positioning (the general game-plan)
+
+### Character weak-points
+
+### Good Positions (To play for)
+
+### Bad Positions (To avoid putting myself there)
+
 ## Movement
 
 

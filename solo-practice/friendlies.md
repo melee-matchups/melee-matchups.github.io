@@ -1,10 +1,27 @@
 Pick *ONE* god damn it
 
+# GLOBAL
+disadvantage juggles
+advantage juggles
+
+#remeber to mix up, dont fall into a "mode" of playing
+
+
+sheild "button"
+Juggle better, think "how do I stop to land" (follow -> shark)
+work more on recovery / side b usage
+Empty land more
+use dtilt to force jumps not to hit
+
+DDing - mix it up
+
 # Fox
 
 Edge gardening high better + more D-Air
 
-aerial placements/spacing + timing
+[Good] aerial placements/spacing + timing
+
+More D-Tilt (if grounded)
 
 # Marth
 hold your ground
@@ -18,6 +35,8 @@ More D-Air VS CC happy Marths
 TLF / PS
 edge guard better + more D-Air
 
+You suck at in place nair
+
 # Puff
 
 Weird neutral when she camps
@@ -25,8 +44,7 @@ Weird neutral when she camps
 # Sheik
 
 Edge guarding
-
-Combos
+Grab ledge
 
 # ICs
 

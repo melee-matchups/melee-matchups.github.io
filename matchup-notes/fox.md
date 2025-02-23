@@ -1,7 +1,29 @@
 # Stuff to add
 
 # Neutral
-*Note: play [In-Face](../rambles/playstyles.md)*
+*Play [In-Face](../rambles/playstyles.md)*
+
+## Advantageous Positioning (the general game-plan)
+
+### Character weak-points
+
+#### Recovery
+Very easy to gimp recovery
+
+#### Fall speed
+Easy to combo
+
+### Good Positions (To play for)
+
+Push him towards the ledge and off stage
+
+### Bad Positions (To avoid putting myself there)
+
+#### In corner / ledge
+Fox Has an easy time overshooting and feinting them
+
+#### Above Fox / in air when Fox can get to ground
+Fox can fall faster than Marth, so can get to the ground to punish faster than Marth can, so its better to stay grounded than taking to the air 
 
 ## Movement
 The way to beat Fox is to out manoeuvre him, pressuring him into doing something and punishing him for doing so.

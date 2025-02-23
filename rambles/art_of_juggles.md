@@ -1,3 +1,8 @@
+Know your range
+Know your opponents options
+
+Stay safe: favour retreat over over extending
+
 
 <style>*, body, html{
 	--text-color-fg: #AAAAAA;

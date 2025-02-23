@@ -26,6 +26,8 @@
 
 [Peach](matchup-notes/peach.md)
 
+[Pika](matchup-notes/pika.md)
+
 ## B
 
 [Luigi](matchup-notes/luigi.md)
@@ -52,6 +54,9 @@
 [How to Marth - Footsies](rambles/how to marth - Footsies.md)
 
 [Mental Neutral - gameplans](rambles/Mental Neutral - gameplans.md)
+
+
+`New[April 2024] -> beginner[August 2024] -> mid[January 2025] -> high[] -> top UK[] -> top 50? -> top 10? -> 1?`
 <style>*, body, html{
 	--text-color-fg: #AAAAAA;
 	--text-color-bg: #111111;

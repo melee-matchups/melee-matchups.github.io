@@ -1,6 +1,12 @@
 - set up neutral situation into a punish sequence
 - Flow more
 
+
+Punish game is you reacting to what you look at the opponent doing
+Look and follow them with your eyes and react to it with optimal punish
+
+
+
 # Fox
 *CRUCIAL*
 ## FD Chain grab 0-Death
@@ -16,7 +22,7 @@ tipper u-air -> up b
 90-100%: FH up b
 
 ## U-Throw Platform tech chase
- Short-Hop Fast-Fall Upairs, Uptilt, and Fsmash. You can also Waveland down onto the platform and grab him, especially if you expect him to spotdodge or shield
+Short-Hop Fast-Fall Upairs, Uptilt, and Fsmash. You can also Waveland down onto the platform and grab him, especially if you expect him to spotdodge or shield
  
 0-21%: U-Tilt
 21%-60%: FF U-Air
@@ -44,6 +50,15 @@ JC grab if close, else dash grab
 # Falco
 *CRUCIAL*
 ## FD Chain grab 0-Death
+0-15% Just Z
+15-30% Just Z on slight / no DI, dash JC grab on full DI
+30-40% pivot regrab or dash JC grab
+40-50% u-tilt -> regrab
+50-60%: F-smash on DI out, u-tilt -> u-air -> Up-B / F-smash on all other DI
+60-70%: f-smash on all DIs
+70-90%: (delayed if needed) U-air -> f-smash
+90-120: Up-B
+
 Around 40% u-tilt is good
 At 55% do u-air
 At 60% can just do f-smash

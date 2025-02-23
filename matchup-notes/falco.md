@@ -43,7 +43,33 @@ sdi up fair
 REMEBER TO *IN PLACE* NAIR
 
 # Neutral
-*Note: play [keep-out](../how_to_play_keepout.md)*
+*Play [keep-out](../rambles/playstyles.md)*
+
+## Advantageous Positioning (the general game-plan)
+
+### Character weak-points
+
+#### Dash dance
+Very short dash dance, meaning he uses it more for micro spacing, so his only way of macro spacing is with his jump
+
+#### Recovery
+He has a very poor recovery, his side B is better than Foxes, but after you get him below ledge, he is probably dead.
+
+#### Fall speed
+Same as fox, but due to his extra weight, it is easier to combo him off a grab at higher %s (40+) into a kill
+
+### Good Positions (To play for)
+
+#### Play for center
+Buy playing in center, we can call out Falco's approach option and punish him
+
+#### Push into corner
+By pushing Falco into the corner, we can force him into approching or doing an in-place move to stop us from sending him offstage.
+
+### Bad Positions (To avoid putting myself there)
+
+#### Corner
+Marth in the corner in this MU is hard as he has no direct way top approach Falco.
 
 ## Movement
 DO not 

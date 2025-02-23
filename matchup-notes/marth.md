@@ -3,6 +3,33 @@
 # Neutral
 *Play [keep-out](../rambles/playstyles.md)*
 
+## Advantageous Positioning (the general game-plan)
+
+### Character weak-points
+
+#### Recovery
+Marth has a predicable recovery, and Marth is good at edge guarding him self.
+
+#### Fall speed
+Marth has a hard time landing, you can keep him up there for a while
+
+#### End-Lag & Start up
+Marth has alot of start up and end lag on his moves, meaning he is easier to whiff punish
+
+### Good Positions (To play for)
+
+#### Center
+Playing from center amplify Marth's kit
+
+### Bad Positions (To avoid putting myself there)
+
+#### In corner / ledge
+Its hard for Marth in the corner, especially VS himself
+
+#### Above Marth / in air
+Marth has an easy time to anti-air
+
+
 ## Movement
 You do not want to act first in this match-up, the first to bite is the first to die. Due to CC strength at low %s, it is common for Marths' to wait in crouch for you to do something stupid.
 
@@ -22,7 +49,7 @@ WD forwards / run cancels are risky in this MU, but needs to be used to poke at 
 You can dash back to whiff punish Marth's moves due to his end lag on his moves, however this looses to him poking with D-Tilt.
 
 Being bellow Marth is also strong as he has a hard time trying to get down.
-We abuse this in punish situations by being able to rack up high damage offa n U-Throw, even if none of it is true.
+We abuse this in punish situations by being able to rack up high damage off a n U-Throw, even if none of it is true.
 
 ## Gameplan
 D-Tilt controls the ground in this MU, along with his long dash, this makes the ground a very strong place for both of us.
@@ -122,6 +149,8 @@ If he is above the ledge and close enough, then you continue to shark him with F
 ## Throw Follow ups
 Mix up between F-Throw and U-Throw, their DIs are different for each other.
 F-Throw / D-Throw is really good at the corner, as DI in will kill them, but DI-ing out will set up for a mxi up edge guard, witch the Marth on stage can just wait and react to.
+If the other Marth DI's out on u-throw, you can get a F-Air / U-Air; You can also call out the DI for the F-Air / U-Air after the U-Throw and instead to a N-Air.
+
 
 ### Low %
 F-Throw -> Re-Grab
