@@ -30,6 +30,8 @@
 
 ## B
 
+[Samus](matchup-notes/samus.md)
+
 [Luigi](matchup-notes/luigi.md)
 
 [Ganon](matchup-notes/ganon.md)

@@ -96,6 +96,10 @@ DDing - mix it up / do call out mix ups
 
 Recover low some more
 Don't always run at me, bait with DD more, and grab
+
+
+Do you mind me asking questions in between sets?
+
 <style>*, body, html{
 	--text-color-fg: #AAAAAA;
 	--text-color-bg: #111111;

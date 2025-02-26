@@ -35,6 +35,12 @@ Short-Hop Fast-Fall Upairs, Uptilt, and Fsmash. You can also Waveland down onto 
 ## Fox RTC
 Look at the feet, the sound queue is when you look at them, then dash grab in the direction he goes
 
+5-17%: Tfair -> grab 
+23%+: (DI in) Tfair -> JC grab
+0-11%: AC n-air -> instant grab
+11%+: (DI in) AC n-air -> JC grab
+7-19%: dair -> grab
+0-???: sour fair -> instant grab
 # Marth
 
 ## Juggles
@@ -82,6 +88,8 @@ Can easily WD oos after PS from crouch, slightly harder from DD as I let go of R
 
 
 ## Slide of from D-Air on plat
+
+0-18%: Tfair -> grab 
 
 # Puff
 *CRUCIAL*

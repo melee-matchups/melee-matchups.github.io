@@ -43,20 +43,22 @@ sdi up fair
 REMEBER TO *IN PLACE* NAIR
 
 # Neutral
-*Play [keep-out](../rambles/playstyles.md)*
 
 ## Advantageous Positioning (the general game-plan)
 
 ### Character weak-points
 
-#### Dash dance
-Very short dash dance, meaning he uses it more for micro spacing, so his only way of macro spacing is with his jump
+#### Dash dance / dash speed
+Very short and slow dash dance, meaning he uses it more for micro spacing, so his only way of macro spacing is with his jump
 
 #### Recovery
 He has a very poor recovery, his side B is better than Foxes, but after you get him below ledge, he is probably dead.
 
 #### Fall speed
 Same as fox, but due to his extra weight, it is easier to combo him off a grab at higher %s (40+) into a kill
+
+#### Grab
+Falco has a really bad grab game, so you can use light shield in alot of places (like at ledge and on platforms) to get out of pressure sequences
 
 ### Good Positions (To play for)
 
@@ -72,13 +74,13 @@ By pushing Falco into the corner, we can force him into approching or doing an i
 Marth in the corner in this MU is hard as he has no direct way top approach Falco.
 
 ## Movement
-DO not 
-
 You do not want to be in scrap range with Falco; This is where he is at his strongest.
 
-You want to be walling Falco out with aerials, making sure he as to try hard to get in.
+You want to be walling Falco out with aerials, making sure he as to try hard to get in. 
 
 You will need to find the range where you can N-Air his aerial approaches whilst also being safe from his grounded moves (in closer distances, this is not a problem as AC N-Air can hit these).
+
+Only do N-air when Falco is on the ground, as you can catch him jumping from the ground. If he is already in the air, use F-Airs and u-airs to catch him
 
 You don't want to give the Falco an approach, as Marth, you want the Falco to come to you and chase you down. If you both go for each-other, Falco's moves just win due to their size and longer lasting hitbox.
 
@@ -93,7 +95,7 @@ When on the ground, if you have enough time to jump, do so, as TLF leads to bett
 PS job is to force the Falco to approach and respect Marth's movement.
 
 ### N-Air
-Since Falco will primarily come from the air, we can use an In-Place N-Air to counter hit his approach.
+Since Falco will primarily jump from the ground, we can use an In-Place N-Air to counter hit his approach.
 However, *do not spam* this N-Air without mixing up out of the auto cancel.
 Examples of what to do are dash back, crouch for a power-shield, WD forwards or empty hop.
 
@@ -321,19 +323,16 @@ F-Throw -> Tech chase Up B
 ## Shielding Rule
 The only time you need to shield Falco is when your close enough to him where a overshoot D-Air will hit your dash back.
 
-
 ## Falco Shield Pressure And Playing From The Corner
 When in the corner, you want to find you way back to center, however, if the Falco is playing hot, this is a hard task.
 If you find yourself cornered, the first thing to do is not to panic.
 I used to always try to grab him or jump out, this is very VERY bad.
 
-```@TODO talk about SH aerial in place vs goto center VS light sheild```
-
 There are 4 main options to choose from when in the corner.
 ### SH aerial in place
-Doing a SH N-Air in the corner is risky, as you can no longer dash back, but if the Falco is coming into the corner with a hitbox, its a good option to stay in place and N-Air as it stops him from attacking you.
+Doing a SH N-Air in the corner is risky, as you can no longer dash back, but if the Falco is coming into the corner with a hitbox (N-air / D-Air), its a good option to stay in place and N-Air as it stops him from attacking you.
 
-However, if the Falco knows you will do this, he can wait and N-Air inot the corner himself and knock you offstage.
+However, if the Falco knows you will do this, he can wait and N-Air into the corner himself and knock you offstage.
 
 ### Light shield
 The safest options is just to light shield by the ledge.
@@ -345,6 +344,9 @@ Just watch out for him D-Air-ing
 
 ### Platforms (if not on FD)
 You can also try to reset onto platforms, but watch out as you don't really want to be above Falco.
+
+If you are in a tech scenario on a platform, you can do a light shield; Due to Falco's bad grab, you will most likely get knocked off by a shine or an attack, otherwise you can slow down the Falco as they have to wait for you to shield drop.
+However, they can still do slide off counter play, so watch out for them doing so.
 
 ## Platform Slide Offs
 You can slide off his D-Air if you land onto a platform.
